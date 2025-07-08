@@ -24,8 +24,26 @@ Com mais de 15 anos de experiência na área de arquitetura, desenvolvi um olhar
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariana4ads&theme=transparent&bg_color=DED7CF&border_color=DED7CF&show_icons=true&icon_color=212830&title_color=212830&text_color=212830)
 
 ## Repositórios Recentes
-
-
+<p>
+  <a href="https://github.com/mariana4ads/diariodev" target="_blank">
+    <img src="./images/site7.png" width="200"/>
+  </a>
+  <a href="https://github.com/mariana4ads/descarte-certo" target="_blank">
+    <img src="./images/site1.png" width="200"/>
+  </a>
+  <a href="https://github.com/mariana4ads/projetoTLOU" target="_blank">
+    <img src="./images/site2.png" width="200"/>
+  </a>
+  <a href="https://github.com/mariana4ads/7daysOfCode" target="_blank">
+    <img src="./images/site4.png" width="200"/>
+  </a>
+  <a href="https://github.com/mariana4ads/NLWexperts" target="_blank">
+    <img src="./images/site6.png" width="200"/>
+  </a>
+  <a href="https://github.com/mariana4ads/SpotifyClone" target="_blank">
+    <img src="./images/site3.png" width="200"/>
+  </a>
+</p>
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DED7CF?style=for-the-badge&logo=linkedin&logoColor=212830)](https://www.linkedin.com/in/mariana4ads/)
