@@ -33,8 +33,7 @@ Com mais de 15 anos de experiência na área de arquitetura, desenvolvi um olhar
   </a>
   <a href="https://github.com/mariana4ads/projetoTLOU" target="_blank">
     <img src="./images/site2.png" width="200"/>
-  </a>
-  
+  </a><br>
   <a href="https://github.com/mariana4ads/7daysOfCode" target="_blank">
     <img src="./images/site4.png" width="200"/>
   </a>
