@@ -16,7 +16,7 @@ Com mais de 15 anos de experiência na área de arquitetura, desenvolvi um olhar
 
 ### Linguagens / Ferramentas / Sistema Operacional
 
-![Markdown](https://img.shields.io/badge/Markdown-DED7CF?style=for-the-badge&logo=markdown)
+![Markdown](https://img.shields.io/badge/Markdown-DED7CF?style=for-the-badge&logo=markdown&logoColor=212830)
 ![HTML5](https://img.shields.io/badge/HTML5-DED7CF?style=for-the-badge&logo=html5&logoColor=212830)
 ![CSS3](https://img.shields.io/badge/CSS3-DED7CF?style=for-the-badge&logo=css3&logoColor=212830)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DED7CF?style=for-the-badge&logo=javascript&logoColor=212830)
