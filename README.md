@@ -26,22 +26,22 @@ Com mais de 15 anos de experiência na área de arquitetura, desenvolvi um olhar
 ## Repositórios Recentes
 <p>
   <a href="https://github.com/mariana4ads/diariodev" target="_blank">
-    <img src="./images/site7.png" width="200"/>
+    <img src="./images/site7.png" width="280"/>
   </a>
   <a href="https://github.com/mariana4ads/descarte-certo" target="_blank">
-    <img src="./images/site1.png" width="200"/>
+    <img src="./images/site1.png" width="280"/>
   </a>
   <a href="https://github.com/mariana4ads/projetoTLOU" target="_blank">
-    <img src="./images/site2.png" width="200"/>
+    <img src="./images/site2.png" width="280"/>
   </a><br>
   <a href="https://github.com/mariana4ads/7daysOfCode" target="_blank">
-    <img src="./images/site4.png" width="200"/>
+    <img src="./images/site4.png" width="280"/>
   </a>
   <a href="https://github.com/mariana4ads/NLWexperts" target="_blank">
-    <img src="./images/site6.png" width="200"/>
+    <img src="./images/site6.png" width="280"/>
   </a>
   <a href="https://github.com/mariana4ads/SpotifyClone" target="_blank">
-    <img src="./images/site3.png" width="200"/>
+    <img src="./images/site3.png" width="280"/>
   </a>
 </p>
 
