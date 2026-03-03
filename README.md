@@ -2,9 +2,11 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, em constante evolução e determinada a me tornar uma Desenvolvedora Full Stack. Atualmente, em transição de carreira, tenho investido em cursos práticos, imersões técnicas e projetos reais para construir uma base sólida em Lógica de Programação, Desenvolvimento Web e Desenvolvimento de Software.
+Sou formada em Análise e Desenvolvimento de Sistemas e tenho como objetivo atuar como Desenvolvedora Full Stack, construindo soluções completas, do front-end ao back-end, com organização, boas práticas e clareza técnica.
 
-Com mais de 15 anos de experiência na área de arquitetura, desenvolvi um olhar apurado para detalhes, organização e gestão de projetos, habilidades que pretendo aplicar na criação de soluções digitais eficientes, funcionais e bem estruturadas.
+Atualmente, estou aprofundando meus conhecimentos por meio de cursos práticos, imersões técnicas e desenvolvimento de projetos reais, com foco em Desenvolvimento Web e Desenvolvimento de Software.
+
+Após mais de 15 anos de atuação na área de Arquitetura e Urbanismo, trago uma base sólida em visão sistêmica, organização, atenção a detalhes e gestão de projetos. Competências que hoje aplico na criação de soluções digitais estruturadas, funcionais e orientadas à qualidade.
 
 ## Habilidades
 
