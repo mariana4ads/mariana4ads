@@ -25,7 +25,7 @@ Após mais de 15 anos de atuação na área de Arquitetura e Urbanismo, trago um
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-![Linguagens Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana4ads&theme=transparente&bg_color=2C3E50&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=F5F7FA&text_color=F5F7FA)
+![Linguagens Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srochamariana&theme=transparente&bg_color=2C3E50&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=F5F7FA&text_color=F5F7FA)
 
 ### Ferramentas / Sistema Operacional
 
@@ -37,34 +37,34 @@ Após mais de 15 anos de atuação na área de Arquitetura e Urbanismo, trago um
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariana4ads&theme=transparent&bg_color=2C3E50&border_color=2C3E50&show_icons=true&icon_color=F5F7FA&title_color=F5F7FA&text_color=F5F7FA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srochamariana&theme=transparent&bg_color=2C3E50&border_color=2C3E50&show_icons=true&icon_color=F5F7FA&title_color=F5F7FA&text_color=F5F7FA)
 
 ## Repositórios Recentes
 
 <p>
-  <a href="https://github.com/mariana4ads/diariodev" target="_blank">
+  <a href="https://github.com/srochamariana/diariodev" target="_blank">
     <img src="./images/site7.png" width="240"/>
   </a>
-  <a href="https://github.com/mariana4ads/descarte-certo" target="_blank">
+  <a href="https://github.com/srochamariana/descarte-certo" target="_blank">
     <img src="./images/site1.png" width="240"/>
   </a>
-  <a href="https://github.com/mariana4ads/projetoTLOU" target="_blank">
+  <a href="https://github.com/srochamariana/projetoTLOU" target="_blank">
     <img src="./images/site2.png" width="240"/>
   </a><br>
-  <a href="https://github.com/mariana4ads/7daysOfCode" target="_blank">
+  <a href="https://github.com/srochamariana/7daysOfCode" target="_blank">
     <img src="./images/site4.png" width="240"/>
   </a>
-  <a href="https://github.com/mariana4ads/NLWexperts" target="_blank">
+  <a href="https://github.com/srochamariana/NLWexperts" target="_blank">
     <img src="./images/site6.png" width="240"/>
   </a>
-  <a href="https://github.com/mariana4ads/SpotifyClone" target="_blank">
+  <a href="https://github.com/srochamariana/SpotifyClone" target="_blank">
     <img src="./images/site3.png" width="240"/>
   </a>
 </p>
 
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana4ads/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srochamariana/)
 [![DIO](https://img.shields.io/badge/DIO-8300A5?style=for-the-badge&logoColor=F5F7FA)](https://www.dio.me/users/mariana4ads/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariana4ads)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/srochamariana)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariana4ads@gmail.com)
